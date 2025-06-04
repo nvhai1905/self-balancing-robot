@@ -1,0 +1,5 @@
+D:\KTLT_20242\bbb\bbb\x64\Debug\bbb.vcxproj.AssemblyReference.cache
+D:\KTLT_20242\bbb\bbb\x64\Debug\bbb.FormButtonControl.resources
+D:\KTLT_20242\bbb\bbb\x64\Debug\bbb.FormGestureControl.resources
+D:\KTLT_20242\bbb\bbb\x64\Debug\bbb.MyForm.resources
+D:\KTLT_20242\bbb\bbb\x64\Debug\bbb.vcxproj.GenerateResource.cache

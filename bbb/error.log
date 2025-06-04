@@ -1,0 +1,2069 @@
+2025-05-30 20:06:33 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:06:35 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:06:36 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:06:37 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:06:39 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:06:40 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:06:43 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:06:44 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:06:45 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:06:47 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:06:48 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:06:48 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:06:50 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:06:52 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:06:53 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:06:56 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:06:57 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:06:57 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:06:59 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:07:00 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:07:01 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:07:01 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:07:02 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:07:03 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:07:04 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:07:05 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:07:07 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 57
+2025-05-30 20:08:56 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:08:57 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:08:57 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:08:58 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:08:58 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:01 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:02 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:03 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:04 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:05 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:05 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:06 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:06 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:06 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:08 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:08 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:09 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:12 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:12 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:12 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:12 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:12 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:13 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:17 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:17 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:19 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:20 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:21 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:24 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:25 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:27 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:28 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:28 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:28 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:09:29 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:10:04 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:10:05 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:10:06 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:10:06 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:10:06 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:10:06 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:10:07 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:10:07 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:10:07 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:10:09 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:10:10 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:10:10 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:10:10 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:10:10 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:10:11 - Error updating image
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 58
+2025-05-30 20:21:02 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:02 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:02 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:02 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:02 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:02 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:03 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:03 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:04 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:04 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:04 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:05 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:06 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:09 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:09 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:11 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:13 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:14 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:14 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:15 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:17 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:17 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:18 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:19 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:19 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:19 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:20 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:20 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:21 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:24 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:24 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:25 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:25 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:25 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:26 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:26 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:26 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:26 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:27 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:27 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:28 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:29 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:30 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:30 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:30 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:21:31 - Error updating image in timer1_Tick
+System.IO.IOException: The process cannot access the file 'D:\KTLT_20242\bbb\bbb\frame.jpg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 138
+2025-05-30 20:24:01 - Error updating image in timer1_Tick
+System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:11 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:11 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:11 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:12 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:12 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:13 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:13 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:13 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:13 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:16 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:16 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:18 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:20 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:24 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:25 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:25 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:28 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:29 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:30 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:30 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:30 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:30 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:30 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:30 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:31 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:31 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:31 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:31 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:32 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:33 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:33 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:35 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:35 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:36 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:39 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:42 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:46 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:49 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:49 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:54 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:54 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:55 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:56 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:57 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:57 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:27:58 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:01 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:01 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:02 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:03 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:03 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:04 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:04 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:05 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:05 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:06 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:07 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:07 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:09 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:09 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:11 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:11 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:12 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:13 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:16 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:23 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:28 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:31 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:31 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:31 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:32 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:34 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:36 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:37 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:37 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:38 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:39 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:41 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:42 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:43 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:44 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:28:53 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:02 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:02 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:02 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:03 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:03 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:04 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:05 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:07 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:08 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:12 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:13 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:16 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:17 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:18 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:22 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:22 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:22 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:22 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:23 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:23 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:23 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:24 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:27 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:29 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:33 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:34 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:35 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:37 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:38 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:38 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:39 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:40 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:42 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:46 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:29:53 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:00 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:00 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:02 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:02 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:02 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:04 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:04 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:06 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:07 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:08 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:14 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:16 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:17 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:19 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:25 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:26 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:29 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:30 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:31 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:32 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:32 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:32 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:33 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:33 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:35 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:38 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:38 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:39 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:40 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:40 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:41 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:41 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:42 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:42 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:44 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:44 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:53 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:53 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:55 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:59 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:30:59 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:02 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:06 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:11 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:13 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:14 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:14 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:17 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:18 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:19 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:21 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:23 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:25 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:26 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:28 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:30 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:31 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:36 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:36 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:36 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:38 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:38 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:39 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:40 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:41 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:43 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:43 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:45 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:46 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:47 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:47 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:50 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:50 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:50 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:51 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:51 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:52 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:52 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:53 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:53 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:54 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:58 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:31:59 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:00 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:03 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:03 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:03 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:05 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:05 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:07 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:07 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:09 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:09 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:11 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:11 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:11 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:15 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:18 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:20 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:21 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:24 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:25 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:29 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:30 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:32 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:32 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:34 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:35 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:36 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:38 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:40 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:41 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:41 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:43 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:43 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:46 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:46 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:47 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:50 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:51 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:51 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:54 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:54 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:58 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:59 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:59 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:32:59 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:33:02 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:33:03 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:33:04 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:33:05 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:33:12 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:33:12 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:33:14 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:33:15 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:33:16 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:33:21 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:33:21 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:33:27 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:33:27 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:33:31 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:33:33 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:33:39 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:33:47 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:33:53 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:33:55 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:00 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:00 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:02 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:04 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:07 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:08 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:08 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:11 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:12 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:20 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:21 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:21 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:27 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:27 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:28 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:29 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:36 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:40 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:40 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:41 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:42 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:42 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:42 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:43 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:43 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:43 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:43 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:43 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:43 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:44 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:44 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:44 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:45 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:46 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:49 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:51 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:55 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:56 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:56 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:58 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:34:59 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:35:04 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:35:11 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:36:48 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:36:48 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:36:49 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:36:50 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:36:50 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:36:50 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:36:50 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 20:36:51 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 21:32:14 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 21:32:20 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 21:32:33 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 21:32:35 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 21:32:36 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 21:32:48 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 21:32:53 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 21:33:07 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 21:33:13 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 21:33:20 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 21:33:35 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 21:33:36 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 21:33:42 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 21:33:44 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 21:33:50 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 21:34:02 - Invalid or incomplete image data in frame.jpg (timer1_Tick)
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Stream stream)
+   at bbb.FormGestureControl.timer1_Tick(Object sender, EventArgs e) in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 151
+2025-05-30 22:33:11 - Error updating image from TCP
+System.InvalidOperationException: Invoke or BeginInvoke cannot be called on a control until the window handle has been created.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.BeginInvoke(Delegate method, Object[] args)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 63
+2025-05-31 00:01:52 - Error updating image from TCP
+System.InvalidOperationException: Invoke or BeginInvoke cannot be called on a control until the window handle has been created.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.BeginInvoke(Delegate method, Object[] args)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 63
+2025-05-31 09:57:19 - Failed to connect to video stream
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9999
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at bbb.FormGestureControl.ConnectVideoStream() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 123
+2025-05-31 09:58:28 - Failed to connect to video stream
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9999
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at bbb.FormGestureControl.ConnectVideoStream() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 123
+2025-05-31 10:01:14 - Failed to connect to video stream
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9999
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at bbb.FormGestureControl.ConnectVideoStream() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 123
+2025-05-31 10:02:15 - Error updating image from TCP
+System.InvalidOperationException: Invoke or BeginInvoke cannot be called on a control until the window handle has been created.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.BeginInvoke(Delegate method, Object[] args)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 63
+2025-05-31 15:20:07 - Failed to connect to video stream
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9999
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at bbb.FormGestureControl.ConnectVideoStream() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 123
+2025-05-31 15:22:14 - Failed to connect to video stream
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9999
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at bbb.FormGestureControl.ConnectVideoStream() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 123
+2025-05-31 15:22:16 - Failed to connect to video stream
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9999
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at bbb.FormGestureControl.ConnectVideoStream() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 123
+2025-05-31 15:26:18 - Failed to connect to video stream
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9999
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at bbb.FormGestureControl.ConnectVideoStream() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 123
+2025-05-31 15:26:44 - Error updating image from TCP
+System.InvalidOperationException: Invoke or BeginInvoke cannot be called on a control until the window handle has been created.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.BeginInvoke(Delegate method, Object[] args)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 63
+2025-05-31 16:24:31 - Failed to connect to video stream
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9999
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at bbb.FormGestureControl.ConnectVideoStream() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 123
+2025-05-31 16:25:21 - Failed to connect to video stream
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9999
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at bbb.FormGestureControl.ConnectVideoStream() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 123
+2025-05-31 16:27:47 - Failed to connect to video stream
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9999
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at bbb.FormGestureControl.ConnectVideoStream() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 123
+2025-05-31 16:28:22 - Error updating image from TCP
+System.InvalidOperationException: Invoke or BeginInvoke cannot be called on a control until the window handle has been created.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.BeginInvoke(Delegate method, Object[] args)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 63
+2025-05-31 23:16:25 - Failed to connect to video stream
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9999
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at bbb.FormGestureControl.ConnectVideoStream() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 123
+2025-05-31 23:16:42 - Error updating image from TCP
+System.InvalidOperationException: Invoke or BeginInvoke cannot be called on a control until the window handle has been created.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.BeginInvoke(Delegate method, Object[] args)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 63
+2025-06-03 09:57:43 - Failed to connect to video stream
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9999
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at bbb.FormGestureControl.ConnectVideoStream() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 122
+2025-06-03 10:10:50 - Error updating image from TCP
+System.InvalidOperationException: Invoke or BeginInvoke cannot be called on a control until the window handle has been created.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.BeginInvoke(Delegate method, Object[] args)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 65
+2025-06-04 00:42:59 - Failed to connect to video stream
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9999
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at bbb.FormGestureControl.ConnectVideoStream() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 136
+2025-06-04 11:50:21 - Failed to connect to video stream
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9999
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at bbb.FormGestureControl.ConnectVideoStream() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 136
+2025-06-04 11:57:48 - Error updating image from TCP
+System.InvalidOperationException: Invoke or BeginInvoke cannot be called on a control until the window handle has been created.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.BeginInvoke(Delegate method, Object[] args)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 77
+2025-06-04 12:10:28 - Error updating image from TCP
+System.InvalidOperationException: Invoke or BeginInvoke cannot be called on a control until the window handle has been created.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.BeginInvoke(Delegate method, Object[] args)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 77
+2025-06-04 14:20:23 - Failed to connect to video stream
+System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:9999
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at bbb.FormGestureControl.ConnectVideoStream() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 136
+2025-06-04 14:27:42 - Error updating image from TCP
+System.InvalidOperationException: Invoke or BeginInvoke cannot be called on a control until the window handle has been created.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.BeginInvoke(Delegate method, Object[] args)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 77
+2025-06-04 15:26:31 - Error updating image from TCP
+System.InvalidOperationException: Invoke or BeginInvoke cannot be called on a control until the window handle has been created.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.BeginInvoke(Delegate method, Object[] args)
+   at bbb.FormGestureControl.UpdateImageLoop() in D:\KTLT_20242\bbb\bbb\FormGestureControl.h:line 77
